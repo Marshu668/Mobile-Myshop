@@ -3,7 +3,7 @@
     <van-row class="indent">
       <van-col :span="24">
         <van-nav-bar
-          title="黑马程序员.vant"
+          title="Myshop.vant"
           :fixed="true"
           ref="barRef"
           @click-left="onClickLeft"
