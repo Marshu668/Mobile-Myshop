@@ -1,5 +1,10 @@
-
 .van-image__img {
   max-height: 300px !important;
   width: 100%;
+}
+p[data-v-526262ad],p[data-v-526262ad] p {
+  text-indent: 2em !important;
+}
+p[data-v-a027d590] p{
+  text-indent: 2em
 }
